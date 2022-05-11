@@ -25,9 +25,36 @@
 
 <br/>  
 
+## Статистика
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lina7227&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina7227&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina7227&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Чем я еще увлекаюсь 💖
+
 - 📚 Мне нравится читать книги 
 - 🏃 Люблю спорт и активный отдых
 - 🌍 Особая любовь к путешествиям
 - Мне просто нравится жизнь во всех ее проявлениях! 🤗
+
+## Как со мной связаться
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/linakrivosheina7227/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://career.habr.com/elena-krivosheina8">
+    <img src="https://img.shields.io/badge/Habr-green?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+  <a href="https://t.me/Lena_Krivosheina">
+    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
+  </a>
+</div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lina7227&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
+
+
